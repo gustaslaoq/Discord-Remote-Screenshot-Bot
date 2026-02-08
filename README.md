@@ -1,6 +1,6 @@
 # Discord Remote Screenshot Bot
 
-A professional Node.js Discord bot designed to remotely capture screenshots of the host computer. This bot allows an authorized user to request a screen capture via a simple slash command (`/screenshot`) from anywhere.
+A Node.js Discord bot designed to remotely capture screenshots of the host computer. This bot allows an authorized user to request a screen capture via a simple slash command (`/screenshot`) from anywhere.
 
 ![Node.js](https://img.shields.io/badge/Node.js-14.0+-green)
 ![Discord.js](https://img.shields.io/badge/Discord.js-14.14+-blue)
